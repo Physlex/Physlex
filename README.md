@@ -1,6 +1,6 @@
 <p>
   
-  <img src = "AcneMe.jpg"/>
+  <img> src = "AcneMe.jpg" <img/>
   
 - Hi, I’m @Physlex or Alexander Willet, you can call me either.
 <br />
