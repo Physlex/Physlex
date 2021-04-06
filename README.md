@@ -1,4 +1,6 @@
+<p>
 - 👋 Hi, I’m @Physlex or Alexander Willet, you can call me either.
+</p>
 
 - 👀 I’m interested in c++, 2d Arrays, program automation, saving data via a file system, organization, you name it and I have probably wanted to do it for a bit now.
 
