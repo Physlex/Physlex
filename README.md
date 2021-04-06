@@ -3,9 +3,8 @@
 <br />
 - 👀 I’m interested in c++, 2d Arrays, program automation, saving data via a file system, organization, you name it and I have probably wanted to do it for a bit now.
 <br />
-<br />
 - 🌱 I’m currently learning: c++, HTML
--     I will soon be learning: Javascript, c#, website design, css, python.
+<br />I will soon be learning: Javascript, c#, website design, css, python.
 <br />
 - 💞️ I’m looking to collaborate on: Anything newbie friendly! Any excuse to read c++ or HTML is a big advantage.
 <br />
