@@ -5,8 +5,8 @@
 <body>
 <div>
   <p>
-    <h2><span>About Me<span/></h2>
     <hr/>
+    <h2><span>About Me<span/></h2>
     <br />
      - Hi, I’m @Physlex or Alexander Willet, you can call me either. 
     <br />
@@ -21,11 +21,11 @@
     <br />
      - I’m looking to collaborate on: Anything newbie friendly! Any excuse to read c++ or HTML is a big advantage. 
     <br />
+    <hr/>
   </p>
 </div>
 <div>
   <h2>More Information</h2>
-  <hr/>
   <p>
     <h3>Links to Certification: </h3>
     <ul>
