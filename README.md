@@ -8,18 +8,18 @@
     <hr/>
     <h2><span>About Me<span/></h2>
     <br />
-     - Hi, I’m @Physlex or Alexander Willet, you can call me either. 
+       - Hi, I’m @Physlex or Alexander Willet, you can call me either. 
     <br />
     <br />
-     - I’m interested in c++, 2d Arrays, program automation, saving data via a file system, organization, you name it and I have probably wanted to do it for a bit now.
+      - I’m interested in c++, 2d Arrays, program automation, saving data via a file system, organization, you name it and I have probably wanted to do it for a bit now.
     <br />
     <br />
-     - I’m currently learning: Intermediate level C++ (templates, advanced class structures, polymorphism, etc). Also, HTML5, CSS, C#.<br />
+       - I’m currently learning: Intermediate level C++ (templates, advanced class structures, polymorphism, etc). Also, HTML5, CSS, C#.<br />
     <br />
-     - I will soon be learning: Javascript, website design, python.
+       - I will soon be learning: Javascript, website design, python.
     <br />
     <br />
-     - I’m looking to collaborate on: Anything newbie friendly! Any excuse to read c++ or HTML is a big advantage. 
+       - I’m looking to collaborate on: Anything newbie friendly! Any excuse to read c++ or HTML is a big advantage. 
     <br />
     <hr/>
   </p>
@@ -27,6 +27,18 @@
 <div>
   <h2>More Information</h2>
   <p>
+    <div>
+    <h3>Currently Understood Concepts: </h3>
+    <ul>
+      <li>
+        HTML
+      </li>
+      <li>
+        Begginer level C++ (Classes, Objects, Variables, Functions).
+      </li>
+    </ul>
+</p>
+</div>
     <h3>Links to Certification: </h3>
     <ul>
       <li>
@@ -34,8 +46,8 @@
       </li>
     </ul>
   </div>
-  <div>
-    <h3>Contace Me: </h3>
+ <div>
+    <h3>Contact Me: </h3>
     <ul>
       <li>
         <a href="https://www.linkedin.com/in/alexander-williams-letondre-36a59020b/" target="_blank"> My LinkedIn.</a>
