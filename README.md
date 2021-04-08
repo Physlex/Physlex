@@ -5,8 +5,8 @@
 <body>
 <div>
   <p>
-    <hr/>
     <h2><span>About Me<span/></h2>
+    <hr/>
     <br />
      - Hi, I’m @Physlex or Alexander Willet, you can call me either. 
     <br />
@@ -24,8 +24,8 @@
   </p>
 </div>
 <div>
-  <hr/>
   <h2>More Information</h2>
+  <hr/>
   <p>
     <h3>Links to Certification: </h3>
     <ul>
@@ -44,8 +44,9 @@
       My email: thepurplpanda4@gmail.com (Subject to change to a bussiness email).
       </li>
     </ul>
-  </div>
 </p>
+<hr/>  
+</div>
 </body>
 </html>
 
