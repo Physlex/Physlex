@@ -34,7 +34,7 @@
         HTML
       </li>
       <li>
-        Begginer level C++ (Classes, Objects, Variables, Functions).
+        Beginner level C++ (Classes, Objects, Variables, Functions).
       </li>
     </ul>
 </p>
