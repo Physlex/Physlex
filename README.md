@@ -5,12 +5,20 @@
 <body>
 <div>
   <p>
+    <hr/>
     <h2><span>About Me<span/></h2>
-    - Hi, I’m @Physlex or Alexander Willet, you can call me either. <br />
-    - I’m interested in c++, 2d Arrays, program automation, saving data via a file system, organization, you name it and I have probably wanted to do it for a bit now.<br />
+    - Hi, I’m @Physlex or Alexander Willet, you can call me either. 
+    <br />
+    - I’m interested in c++, 2d Arrays, program automation, saving data via a file system, organization, you name it and I have probably wanted to do it for a bit now.
+    <br />
+    <br />
     - I’m currently learning: Intermediate level C++ (templates, advanced class structures, polymorphism, etc). Also, HTML5, CSS, C#.<br />
-    - I will soon be learning: Javascript, website design, python. <br />
-    - I’m looking to collaborate on: Anything newbie friendly! Any excuse to read c++ or HTML is a big advantage. <br />
+    <br />
+    - I will soon be learning: Javascript, website design, python.
+    <br />
+    <br />
+    - I’m looking to collaborate on: Anything newbie friendly! Any excuse to read c++ or HTML is a big advantage. 
+    <br />
   </p>
 </div>
 <div>
