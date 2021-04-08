@@ -38,7 +38,7 @@
     <h3>Contace Me: </h3>
     <ul>
       <li>
-        <a href="https://www.linkedin.com/in/alexander-williams-letondre-36a59020b/"> My LinkedIn.</a>
+        <a href="https://www.linkedin.com/in/alexander-williams-letondre-36a59020b/"> target="_blank" My LinkedIn.</a>
       </li>
       <li>
       My email: thepurplpanda4@gmail.com (Subject to change to a bussiness email).
