@@ -34,7 +34,13 @@
         HTML
       </li>
       <li>
-        Beginner level C++, A handful of Algorithims, basic website concepts.
+        Beginner level C++
+      </li>
+      <li> 
+        Basic OOP
+      </li>
+      <li> 
+        Basic Frontend Website Design Concepts
       </li>
     </ul>
 </p>
