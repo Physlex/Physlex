@@ -11,15 +11,15 @@
        - Hi, I’m @Physlex or Alexander Willet, you can call me either. 
     <br />
     <br />
-      - I’m interested in c++, 2d Arrays, program automation, saving data via a file system, organization, you name it and I have probably wanted to do it for a bit now.
+      - I’m interested in Video game development, competitive programming and data analysis.
     <br />
     <br />
-       - I’m currently learning: Intermediate level C++ (templates, advanced class structures, polymorphism, etc). Also, HTML5, CSS, C#.<br />
+       - I’m currently learning: Intermediate level C++ (inheriting a post-compiled value in a derived class from a base). Also, CSS, C#.<br />
     <br />
-       - I will soon be learning: Javascript, website design, python.
+       - I will soon be learning: Unity, Javascript, website design, python.
     <br />
     <br />
-       - I’m looking to collaborate on: Anything newbie friendly! Any excuse to read c++ or HTML is a big advantage. 
+       - I’m looking to collaborate on: Non-complicated C++ programs. Any excuse to read C++ or professionally designed code is welcome. 
     <br />
     <hr/>
   </p>
@@ -34,7 +34,7 @@
         HTML
       </li>
       <li>
-        Beginner level C++ (Classes, Objects, Variables, Functions, memory storage, pointers, address points).
+        Beginner level C++, A handful of Algorithims, basic website concepts.
       </li>
     </ul>
 </p>
