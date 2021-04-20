@@ -14,12 +14,12 @@
       - I’m interested in Video game development, competitive programming and data analysis.
     <br />
     <br />
-       - I’m currently learning: Intermediate level C++ (inheriting a post-compiled value in a derived class from a base). Also, CSS, C#.<br />
+       - I’m currently learning: Intermediate level C++ (Polymorphism).<br />
     <br />
-       - I will soon be learning: Unity, Javascript, website design, python.
+       - I will soon be learning: Unreal Engine, Python.
     <br />
     <br />
-       - I’m looking to collaborate on: Non-complicated C++ programs. Any excuse to read C++ or professionally designed code is welcome. 
+       - I’m looking to collaborate on: any C++ programs. Any excuse to read C++ or professionally designed code is welcome. 
     <br />
     <hr/>
   </p>
@@ -34,7 +34,7 @@
         HTML
       </li>
       <li>
-        Beginner level C++
+        Intermediate level C++
       </li>
       <li> 
         Basic OOP
