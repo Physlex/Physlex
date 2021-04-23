@@ -16,7 +16,7 @@
     <br />
        - I’m currently learning: Intermediate level C++ (Polymorphism, UML design flow, maps, stacks, compact data storage and handling.)<br />
     <br />
-       - I will soon be learning: Unreal Engine, Python.
+       - I will soon be learning: Unreal Engine, Python, C++ multithreading and event handling, Boost Library.
     <br />
     <br />
        - I’m looking to collaborate on: any C++ programs. Any excuse to read C++ or professionally designed code is welcome. 
