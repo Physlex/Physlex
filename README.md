@@ -37,10 +37,10 @@
         Intermediate level C++
       </li>
       <li> 
-        Basic OOP
+        Intermediate OOP (Basic Polymorphism, Intermediate Inheritance)
       </li>
       <li> 
-        Linked Lists
+        Linked Lists, Struct object data handling
       </li>
     </ul>
 </p>
