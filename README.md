@@ -14,7 +14,7 @@
       - I’m interested in Video game development, competitive programming and data analysis.
     <br />
     <br />
-       - I’m currently learning: Intermediate level C++ (Polymorphism), UML design flow.<br />
+       - I’m currently learning: Intermediate level C++ (Polymorphism), UML design flow, data structures, learning the rest of the STL<br />
     <br />
        - I will soon be learning: Unreal Engine, Python.
     <br />
