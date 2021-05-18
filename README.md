@@ -15,7 +15,10 @@
       - I’m interested in Video game development, data science, machine learning, agile method development and composition style programming! (That may seem like a lot, but from where I stand, if it wasn't for a lack of time, the list would be far longer)
     <br />
     <br />
-      - I’m currently learning: Intermediate level Programming Concepts (UML design flow, Agile methedology, Discrete Mathematics.). I am also currently learning the Unreal Engine for personal projects, partly to explore the higher level projects that surround me, partly because waiting for university to teach me in 5ish months is boring and I would rather learn it now.
+      - I’m currently learning: Basic Computer Science Concepts (UML design flow, Agile methedology, Discrete Mathematics.). 
+      <br >
+      <br />
+      - I am also currently learning the Unreal Engine for personal projects. Partly to explore the higher level projects that surround me, partly because waiting for university to teach me in 5ish months is boring and I would rather learn it now. Even if that costs me money.
     <br />
     <br />
       - Currently, UE4 is taking most of my time. Thus, I have had no ability to share the work that I have done. However, the plan is to begin development of a few small projects which will be posted on itch.io. When that is done, this page will be updated to reflect that.
@@ -24,7 +27,7 @@
       - If you feel confident that I am the right fit for your project || company, please reach out to me. Currently, I have no work in my hometown due to covid. I may not be able to program as even a junior developer yet, but I have the mindset of a tester at the core of my being. Give me a game, an amount of time and I will find as many bugs as is possible to find for an indie developer in training!
     <br />
     <br />
-       - I’m looking to collaborate on: Game development regarding Unreal Engine 4, Helping a fellow developer solve a complicated problem and above all else, anything that gives me a chance to talk to people! I miss talking to people... Haha!
+       - I’m looking to collaborate on: Game development regarding Unreal Engine 4, Helping a fellow developer solve any complicated problems and above all else, anything that gives me a chance to talk to people! I miss talking to people... Haha!
     <br />
     <hr/>
   </p>
