@@ -15,13 +15,16 @@
       - I’m interested in Video game development, data science, machine learning, agile method development and composition style programming! (That may seem like a lot, but from where I stand, if it wasn't for a lack of time, the list would be far longer)
     <br />
     <br />
-      - I’m currently learning: Intermediate level Programming Concepts (UML design flow, Agile methedology, Discrete Mathematics, Multi-System programs.)
+      - I’m currently learning: Intermediate level Programming Concepts (UML design flow, Agile methedology, Discrete Mathematics.). I am also currently learning the Unreal Engine for personal projects, partly to explore the higher level projects that surround me, partly because waiting for university to teach me in 5ish months is boring and I would rather learn it now.
     <br />
     <br />
-       - I will soon be learning: Unreal Engine, Python, QT, Boost Library.
+      - Currently, UE4 is taking most of my time. Thus, I have had no ability to share the work that I have done. However, the plan is to begin development of a few small projects which will be posted on itch.io. When that is done, this page will be updated to reflect that.
     <br />
     <br />
-       - I’m looking to collaborate on: any C++ programs. Any excuse to read C++ or professionally designed code is welcome. 
+      - If you feel confident that I am the right fit for your project || company, please reach out to me. Currently, I have no work in my hometown due to covid. I may not be able to program as even a junior developer yet, but I have the mindset of a tester at the core of my being. Give me a game, an amount of time and I will find as many bugs as is possible to find for an indie developer in training!
+    <br />
+    <br />
+       - I’m looking to collaborate on: Game development regarding Unreal Engine 4, Helping a fellow developer solve a complicated problem and above all else, anything that gives me a chance to talk to people! I miss talking to people... Haha!
     <br />
     <hr/>
   </p>
@@ -32,14 +35,18 @@
     <div>
     <h3>Currently Understood Concepts: </h3>
     <ul>
+      <p>(Con means I understand the theory side of it and havent found a way to implement it that makes full use of the thing, Imp means I understand the basic implementation of the thing.)
       <li>
-        Basic Data structures (Linked List, Doubly Linked List, Map)
+        Data structures (Linked List(Imp), Doubly Linked List(Con), Map(Imp), Graph(Con), Tree(Con), Stack(Con), Queue(Con), Deque(Con))
       </li>
       <li>
-        Intermediate level C++ (Linker Nonsense, Pointers, function pointers, C++ Styled Composition)
+        Discrete mathmatics (Sets(Con), Truth Tables(Con), Boolean Logic(Con || Imp))
+      </li>
+      <li>
+        Intermediate level C++ (Linker Nonsense, Smart Pointers, Function Pointers, C++ Styled Composition)
       </li>
       <li> 
-        Composition Style OOP (Has a rather than Is a, friend keyword and best practice regarding that)
+        Composition Style OOP (Has a rather than Is a, when to use inheritance, philosophy behind design structures, multi-project programming implementation)
       </li>
       <li> 
         Advanced Concepts relating to storage of data. My most proud program to this date is a FSM used to control a player entity. No tutorial, Self-Built.
@@ -51,6 +58,9 @@
     <ul>
       <li>
         <a href="https://www.sololearn.com/profile/21483906" target="_blank"> My SoloLearn.</a> (Truthfully, if you are concerned about my programming, this site is not the place to check on my skills, the concepts covered are barely worth review in my current state. The best this is used for is whether I understand syntax.)
+      </li>
+      <li>
+        <a href="https://learn.unrealengine.com/achievements" target="_blank"> My Unreal Engine achievements page.</a> No idea if this is observable to others. (This is a much, much better representation of my understanding, along with soon-to-be made itch.io games that will be published as side projects)
       </li>
     </ul>
   </div>
