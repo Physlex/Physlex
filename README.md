@@ -9,22 +9,25 @@
     <h2><span>About Me<span/></h2>
     <br />
       <p>
-     Hello, I am Alexander Williams-Letondre. I am considered a novice in programming but every day I spend most of my time learning as much as I can about the areas I am interested in. Currently, I am mainly interested in making my coding readable to allow myself and my teammates the ability to make scale-able code. My current hope is to become employable as a junior engineer in either software engineering / simulations or game development. Eventually, I hope to become an Expert Machine learning developer.
+     Hello, I am Alexander Williams-Letondre. I am considered a novice in programming but every day I spend most of my time learning as much as I can about the areas I am interested in. Currently, I am mainly interested in game development and good documentation / planning practice. My current hope is to become employable as a junior software engineer or game developer in a well managed business. Eventually, I hope to become an Expert Machine learning developer.
     <br />
     <br />
       - I’m interested in Video game development, data science, machine learning, agile method development and composition style programming! (That may seem like a lot, but from where I stand, if it wasn't for a lack of time, the list would be far longer)
     <br />
     <br />
-      - I’m currently learning: Basic Computer Science Concepts (UML design flow, Agile methedology, Discrete Mathematics.). 
-      <br >
-      <br />
-      - I am also currently learning the Unreal Engine for personal projects. Partly to explore the higher level projects that surround me, partly because waiting for university to teach me in 5ish months is boring and I would rather learn it now. Even if that costs me money.
+    - I’m currently learning these Basic Computer Science Concepts: UML design flow, Agile methedology, Discrete Mathematics.
+    <br >
+    <br />
+    - I am also currently learning the Unreal Engine for personal projects. This includes exterior software for game development such as blender and python (For plugins).
     <br />
     <br />
-      - Currently, UE4 is taking most of my time. Thus, I have had no ability to share the work that I have done. However, the plan is to begin development of a few small projects which will be posted on itch.io. When that is done, this page will be updated to reflect that.
+    - Currently learning these game development methods: UMG, Blender workflow, ue4 Plugin creation, level blockouts, character physics.
     <br />
     <br />
-      - If you feel confident that I am the right fit for your project || company, please reach out to me. Currently, I have no work in my hometown due to covid. I may not be able to program as even a junior developer yet, but I have the mindset of a tester at the core of my being. Give me a game, an amount of time and I will find as many bugs as is possible to find for an indie developer in training!
+    - Currently, UE4 is taking most of my time. Thus, I have had no ability to share the work that I have done. However, the plan is to begin development of a few small projects which will be posted on itch.io. When that is done, this page will be updated to reflect that. For the time being, since I can only link and hope that you can read my achievements list in ue4, I will state that my ue4 online learning account consists of 18 achievements. This constitutes a point score of 1009. I spend approximately 6-8 hours on learning game dev from monday to friday, meaning that my current hours spent on learning is ~approx 150 hours. (Updated monthly)
+    <br />
+    <br />
+      - If you feel confident that I am the right fit for your project || company, please reach out to me. Currently, I have no work in my hometown due to covid. I have only the most basic skills with the ue4 engine and blender, but I have spent all of my time getting comfortable with the engine itself, so that is not to be unexpected. Thus, if you want some cheap junior dev labor, I can give that a go as long as you are willing to answer some questions here and there.
     <br />
     <br />
        - I’m looking to collaborate on: Game development regarding Unreal Engine 4, Helping a fellow developer solve any complicated problems and above all else, anything that gives me a chance to talk to people! I miss talking to people... Haha!
