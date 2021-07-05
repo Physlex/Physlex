@@ -77,7 +77,7 @@
       My email: al.Willet02@gmail.com, I check it daily.
       </li>
       <li>
-        My GameDev <a href = "https://twitter.com/Physlex1" target = "_blank"> Twitter.</a>
+        My GameDev <a href = "https://twitter.com/Physlex_GameDev" target = "_blank"> Twitter.</a>
       </li>
     </ul>
 </p>
