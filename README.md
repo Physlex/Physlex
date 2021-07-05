@@ -49,13 +49,10 @@
         Discrete mathmatics (Sets(Con), Truth Tables(Con), Boolean Logic(Con || Imp))
       </li>
       <li>
-        Intermediate level C++ (Linker Nonsense, Smart Pointers, Function Pointers, C++ Styled Composition)
+        Intermediate level C++
       </li>
       <li> 
-        Composition Style OOP (Has a rather than Is a, when to use inheritance, philosophy behind design structures, multi-project programming implementation)
-      </li>
-      <li> 
-        Advanced Concepts relating to storage of data. My most proud program to this date is a FSM used to control a player entity. No tutorial, Self-Built.
+        Intermediate level OOP
       </li>
     </ul>
 </p>
