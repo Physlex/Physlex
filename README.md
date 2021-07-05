@@ -12,7 +12,7 @@
      Hello, I am Alexander Williams-Letondre. I am considered a novice in programming but every day I spend most of my time learning as much as I can about the areas I am interested in. Currently, I am mainly interested in game development and good documentation / planning practice. My current hope is to become employable as a junior software engineer or game developer in a well managed business. Eventually, I hope to become an Expert Machine learning developer.
     <br />
     <br />
-      - I’m interested in Video game development, data science, machine learning, agile method development and design pattern layed programming.
+      - I’m interested in Video game development, data science, machine learning, agile method development and design pattern based programming.
     <br />
     <br />
     - I’m currently learning these Basic Computer Science Concepts: UML design flow, Agile methedology, Discrete Mathematics.
@@ -24,7 +24,7 @@
     - Currently learning these game development methods: UMG, Blender workflow, ue4 Plugin creation, level blockouts.
     <br />
     <br />
-    - Currently, UE4 is taking most of my time. Currently I am learning how to make repositories using source control through visual studio and git (thus also github). For the time being, since I can only link and hope that you can read my achievements list in ue4, I will state that my ue4 online learning account consists of 24 achievements. This constitutes a point score of 1582. I spend approximately 6-8 hours on learning game dev from monday to friday, meaning that my current hours spent on learning is ~approx 370 hours. (Updated weekly)
+    - Currently, UE4 is taking most of my time. I am learning how to make repositories using source control through visual studio and git (thus also github). For the time being, since I can only link and hope that you can read my achievements list in ue4, I will state that my ue4 online learning account consists of 24 achievements. This constitutes a point score of 1582. I spend approximately 6-8 hours on learning game dev from monday to friday, meaning that my current hours spent on learning is ~approx 370 hours. (Updated weekly)
     <br />
     <br />
       - If you feel confident that I am the right fit for your project || company, please reach out to me. Currently, I have no work in my hometown due to covid. I have only the most basic skills with the ue4 engine and blender, but I have spent all of my time getting comfortable with the engine itself, so that is not to be unexpected. Thus, if you want some cheap junior dev labor, I can give that a go as long as you are willing to answer some questions here and there.
