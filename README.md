@@ -9,28 +9,22 @@
     <h2><span>About Me<span/></h2>
     <br />
       <p>
-     Hello, I am Alexander Williams-Letondre. I am considered a novice in programming but every day I spend most of my time learning as much as I can about the areas I am interested in. Currently, I am mainly interested in game development and good documentation / planning practice. My current hope is to become employable as a junior software engineer or game developer in a well managed business. Eventually, I hope to become an Expert Machine learning developer.
+     Hello, I am Alexander Williams-Letondre. I have approx 1 year of personal studies regarding different aspects of graphical programming, 3d real time rendering software such as unreal engine and I also have an understanding of blender, for use of technical art graphics pipeline. I too have experiance with photoshop.
     <br />
     <br />
-      - I’m interested in Video game development, data science, machine learning, agile method development and design pattern based programming.
+      - I’m interested in Video game development, proceduralism, animation, visual effects, modelling, shaders, rendering and many other graphics operations.
     <br />
     <br />
-    - I’m currently learning these Basic Computer Science Concepts: UML design flow, Agile methedology, Discrete Mathematics.
-    <br >
-    <br />
-    - I am also currently learning the Unreal Engine for personal projects. This includes exterior software for game development such as blender and python (For plugins).
+    - I am currently working with a group of university students as a tech artist for our game, I also manage worldbuilding, am a repository for software information and am the technical lead for the group.
     <br />
     <br />
-    - Currently learning these game development methods: UMG, Blender workflow, ue4 Plugin creation, level blockouts.
+    - Of the possible paths open to me regarding game development and working in the technical side of the entertainment industry, I am currently working on understanding HLSL programming language and scripting basic procedural operations using python, as well as learning how to program plugins and tools for use of external software to internal software pipelines.
     <br />
     <br />
-    - Currently, UE4 is taking most of my time. I am learning how to make repositories using source control through visual studio and git (thus also github). For the time being, since I can only link and hope that you can read my achievements list in ue4, I will state that my ue4 online learning account consists of 24 achievements. This constitutes a point score of 1582. I spend approximately 6-8 hours on learning game dev from monday to friday, meaning that my current hours spent on learning is ~approx 370 hours. (Updated weekly)
+    - Currently, UE4 is taking most of my time. I am learning how to make repositories using source control through visual studio and git (thus also github). For the time being, since I can only link and hope that you can read my achievements list in ue4, I will state that my ue4 online learning account consists of 33 achievements. This constitutes a point score of 2476.
     <br />
     <br />
-      - If you feel confident that I am the right fit for your project || company, please reach out to me. Currently, I have no work in my hometown due to covid. I have only the most basic skills with the ue4 engine and blender, but I have spent all of my time getting comfortable with the engine itself, so that is not to be unexpected. Thus, if you want some cheap junior dev labor, I can give that a go as long as you are willing to answer some questions here and there.
-    <br />
-    <br />
-       - I’m looking to collaborate on: Game development and enviromental asset creation for game projects.
+      - If you feel confident that I am the right fit for your project || company, please reach out to me. I am just about fit for internship and general apprentinceship work.
     <br />
     <hr/>
   </p>
@@ -38,24 +32,6 @@
 <div>
   <h2>More Information</h2>
   <p>
-    <div>
-    <h3>Currently Understood Concepts: </h3>
-    <ul>
-      <p>(Con means I understand the theory side of it and havent found a way to implement it that makes full use of the thing, Imp means I understand the basic implementation of the thing.)
-      <li>
-        Data structures (Linked List(Imp), Doubly Linked List(Con), Map(Imp), Graph(Con), Tree(Con), Stack(Con), Queue(Con), Deque(Con))
-      </li>
-      <li>
-        Discrete mathmatics (Sets(Con), Truth Tables(Con), Boolean Logic(Con || Imp))
-      </li>
-      <li>
-        Intermediate level C++
-      </li>
-      <li> 
-        Intermediate level OOP
-      </li>
-    </ul>
-</p>
 </div>
     <h3>Links to Certification: </h3>
     <ul>
