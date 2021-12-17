@@ -9,21 +9,7 @@
     <h2><span>About Me<span/></h2>
     <br />
       <p>
-     Hello, I am Alexander Williams-Letondre. I have approx 1 year of personal studies regarding different aspects of graphical programming, 3d real time rendering software such as unreal engine and I also have an understanding of blender, for use of technical art graphics pipeline. I too have experiance with photoshop.
-    <br />
-    <br />
-      - I’m interested in Video game development, proceduralism, animation, visual effects, modelling, shaders, rendering and many other graphics operations.
-    <br />
-    <br />
-    - I am currently working with a group of university students as a tech artist for our game, I also manage worldbuilding, am a repository for software information and am the technical lead for the group.
-    <br />
-    <br />
-    - Of the possible paths open to me regarding game development and working in the technical side of the entertainment industry, I am currently working on understanding HLSL programming language and scripting basic procedural operations using python, as well as learning how to program plugins and tools for use of external software to internal software pipelines.
-    <br />
-    <br />
-    - Currently, UE4 is taking most of my time. I am learning how to make repositories using source control through visual studio and git (thus also github). For the time being, since I can only link and hope that you can read my achievements list in ue4, I will state that my ue4 online learning account consists of 33 achievements. This constitutes a point score of 2476.
-    <br />
-    <br />
+     Hello, I am Alexander Williams-Letondre. I am a second year University student currently working on my first professional courses. Those courses are Computer graphics, and theoretical foundations of computation. My current interests are in computer vision, control theory and robotics.
       - If you feel confident that I am the right fit for your project || company, please reach out to me. I am just about fit for internship and general apprentinceship work.
     <br />
     <hr/>
@@ -32,6 +18,8 @@
 <div>
   <h2>More Information</h2>
   <p>
+    I can speak a small amount of japanese, I enjoy mathematics and physics, I love computational graphics and computational methods of vision and cognition and I own a little orange fuzball, lovingly named hobbes.
+  </p>
 </div>
     <h3>Links to Certification: </h3>
     <ul>
@@ -51,9 +39,6 @@
       </li>
       <li>
       My email: al.Willet02@gmail.com, I check it daily.
-      </li>
-      <li>
-        My GameDev <a href = "https://twitter.com/Physlex_GameDev" target = "_blank"> Twitter.</a>
       </li>
     </ul>
 </p>
