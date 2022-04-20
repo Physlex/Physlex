@@ -25,20 +25,23 @@
 <footer align="left">
   <h2>Contact Me</h2>
   <hr>
-  <img src="https://user-images.githubusercontent.com/80188240/164322657-29d40f74-043d-4200-a9c1-f9900f3870e4.svg" style="width:100px;height100px;">
-    <a href="https://www.linkedin.com/in/alexander-williams-letondre-36a59020b/" target="_blank"></a>  
+    <a href="https://www.linkedin.com/in/alexander-williams-letondre-36a59020b/" target="_blank">
+      <img src="https://user-images.githubusercontent.com/80188240/164322657-29d40f74-043d-4200-a9c1-f9900f3870e4.svg" style="width:100px;height100px;">
+    </a>  
     <p>
      LinkedIn
     </p>
   </img>
-  <img src="https://user-images.githubusercontent.com/80188240/164323266-d0f65c75-59d1-4c7d-bb7c-a437f2b06805.svg" style="width:100px;height100px;">
-    <a href="al.willet02@gmail.com" target="_blank"></a>
+    <a href="al.willet02@gmail.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/80188240/164323266-d0f65c75-59d1-4c7d-bb7c-a437f2b06805.svg" style="width:100px;height100px;">
+    </a>
     <p>
       My Email
     </p> 
   </img>
-    <img src="https://user-images.githubusercontent.com/80188240/164323266-d0f65c75-59d1-4c7d-bb7c-a437f2b06805.svg" style="width:100px;height100px;">
-      <a href="a.williamsletondre@uleth.ca" target="_blank"></a>
+      <a href="a.williamsletondre@uleth.ca" target="_blank">
+      <img src="https://user-images.githubusercontent.com/80188240/164323266-d0f65c75-59d1-4c7d-bb7c-a437f2b06805.svg" style="width:100px;height100px;">
+      </a>
       <p>
         My School Email
       </p>
