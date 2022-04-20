@@ -1,50 +1,46 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-<body>
-<div>
-  <p>
-    <hr/>
-    <h2><span>About Me<span/></h2>
-    <br />
-      <p>
-     Hello, I am Alexander Williams-Letondre. I am a second year University student currently working on my first professional courses. Those courses are Computer graphics, and theoretical foundations of computation. My current interests are in computer vision, control theory and robotics.
-      - If you feel confident that I am the right fit for your project || company, please reach out to me. I am just about fit for internship and general apprentinceship work.
-    <br />
-    <hr/>
-  </p>
-</div>
-<div>
-  <h2>More Information</h2>
-  <p>
-    I can speak a small amount of japanese, I enjoy mathematics and physics, I love computational graphics and computational methods of vision and cognition and I own a little orange fuzball, lovingly named hobbes.
-  </p>
-</div>
-    <h3>Links to Certification: </h3>
+<header>
+  <h1 align="center">Alexander Williams-Letondre</h1>
+  <h2 align="center">The CS/Developer Guy</h2>
+</header>
+<hr>
+<body align="left">
+  <div>
+    <p>I make tech stuff. When I can, that is. Most of the stuff I currently have are half-built or are meant to test potential future project ideas. When the 
+      summer rolls around however, these are likely to be what I end up investing my time into.</p>
+    <p>Current interests wax and wane, however currently: </p>
     <ul>
       <li>
-        <a href="https://www.sololearn.com/profile/21483906" target="_blank"> My SoloLearn.</a> (Truthfully, if you are concerned about my programming, this site is not the place to check on my skills, the concepts covered are barely worth review in my current state. The best this is used for is whether I understand syntax.)
+        <a href="">I make webpages (WIP)</a>
       </li>
       <li>
-        <a href="https://learn.unrealengine.com/achievements" target="_blank"> My Unreal Engine achievements page.</a> No idea if this is observable to others. (This is a much, much better representation of my understanding, along with soon-to-be made itch.io games that will be published as side projects)
+        <a href="">I make embedded projects (WIP)</a>
+      </li>
+      <li>
+        <a href="">I make scripts</a>
       </li>
     </ul>
   </div>
- <div>
-    <h3>Contact Me: </h3>
-    <ul>
-      <li>
-        <a href="https://www.linkedin.com/in/alexander-williams-letondre-36a59020b/" target="_blank"> My LinkedIn.</a>
-      </li>
-      <li>
-      My email: al.Willet02@gmail.com, I check it daily.
-      </li>
-    </ul>
-</p>
-<hr/>  
-</div>
+  <hr>
 </body>
-</html>
-
-<!--TODO: Update with HTML5 and add some images-->
+<footer align="left">
+  <h2>Contact Me</h2>
+  <hr>
+  <img src="https://user-images.githubusercontent.com/80188240/164322657-29d40f74-043d-4200-a9c1-f9900f3870e4.svg" style="width:100px;height100px;">
+    <a href="https://www.linkedin.com/in/alexander-williams-letondre-36a59020b/" target="_blank"></a>  
+    <p>
+     LinkedIn
+    </p>
+  </img>
+  <img src="https://user-images.githubusercontent.com/80188240/164323266-d0f65c75-59d1-4c7d-bb7c-a437f2b06805.svg" style="width:100px;height100px;">
+    <a href="al.willet02@gmail.com" target="_blank"></a>
+    <p>
+      My Email
+    </p> 
+  </img>
+    <img src="https://user-images.githubusercontent.com/80188240/164323266-d0f65c75-59d1-4c7d-bb7c-a437f2b06805.svg" style="width:100px;height100px;">
+      <a href="a.williamsletondre@uleth.ca" target="_blank"></a>
+      <p>
+        My School Email
+      </p>
+    </img>
+</footer>
