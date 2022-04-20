@@ -5,8 +5,7 @@
 <hr>
 <body align="left">
   <div>
-    <p>I make tech stuff. When I can, that is. Most of the stuff I currently have are half-built or are meant to test potential future project ideas. When the 
-      summer rolls around however, these are likely to be what I end up investing my time into.</p>
+    <p>I make tech stuff whenever I am not studying in University. When summer rolls around, these are likely to be what I end up investing my time into.</p>
     <p>Current interests wax and wane, however currently: </p>
     <ul>
       <li>
