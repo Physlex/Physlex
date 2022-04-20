@@ -32,14 +32,14 @@
      LinkedIn
     </p>
   </img>
-    <a href="al.willet02@gmail.com" target="_blank">
+    <a href="mailto:al.willet02@gmail.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/80188240/164323266-d0f65c75-59d1-4c7d-bb7c-a437f2b06805.svg" style="width:100px;height100px;">
     </a>
     <p>
       My Email
     </p> 
   </img>
-      <a href="a.williamsletondre@uleth.ca" target="_blank">
+      <a href="mailto:a.williamsletondre@uleth.ca" target="_blank">
       <img src="https://user-images.githubusercontent.com/80188240/164323266-d0f65c75-59d1-4c7d-bb7c-a437f2b06805.svg" style="width:100px;height100px;">
       </a>
       <p>
