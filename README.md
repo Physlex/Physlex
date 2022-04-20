@@ -9,13 +9,13 @@
     <p>Current interests wax and wane, however currently: </p>
     <ul>
       <li>
-        <a href="">I make webpages (WIP)</a>
+        <a href="https://github.com/Physlex/physlex.github.io">I make webpages (WIP)</a>
       </li>
       <li>
-        <a href="">I make embedded projects (WIP)</a>
+        <a href="https://github.com/Physlex/GPipe">I develop computer graphics applications</a> 
       </li>
       <li>
-        <a href="">I make scripts</a>
+        <a href="https://github.com/Physlex/PythonOOD">I make scripts</a>
       </li>
     </ul>
   </div>
