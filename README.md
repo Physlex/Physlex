@@ -8,9 +8,9 @@
     <p>I make tech stuff whenever I am not studying in University. When summer rolls around, these are likely to be what I end up investing my time into.</p>
     <p>Current interests wax and wane. however, currently: </p>
     <ul>
-<!--       <li> -->
-<!--         <a href="https://github.com/Physlex/physlex.github.io">I make webpages (WIP)</a> -->
-<!--       </li> -->
+      <li>
+        I make webpages (Or at least, still working on learning that)
+      </li>
       <li>
         <a href="https://github.com/Physlex/GPipe">I develop computer graphics applications</a> 
       </li>
