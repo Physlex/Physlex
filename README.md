@@ -9,9 +9,6 @@
     <p>Current interests wax and wane. however, currently: </p>
     <ul>
       <li>
-        I make webpages (Or at least, still working on learning that)
-      </li>
-      <li>
         <a href="https://github.com/Physlex/GPipe">I develop computer graphics applications</a> 
       </li>
       <li>
