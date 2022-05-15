@@ -9,7 +9,7 @@
     <p>Current interests wax and wane. however, currently: </p>
     <ul>
       <li>
-        <a href="https://github.com/Physlex/GPipe">I develop computer graphics applications</a> 
+        <a href="https://github.com/Physlex/OpenGPipe">I develop computer graphics applications</a> 
       </li>
       <li>
         <a href="https://github.com/Physlex/PythonOOD">I make scripts</a>
