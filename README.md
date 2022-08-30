@@ -5,7 +5,7 @@
 <hr>
 <body align="left">
   <div>
-    <p>I make tech stuff whenever I am not studying in University. When summer rolls around, these are likely to be what I end up investing my time into.</p>
+    <p>I make tech stuff whenever I am not studying in University. When summer rolls around, these are likely to be what I end up investing my time into. Specific historical interests include computer graphics and web application development. Current interests of which most of my academic year is built around include: further study into technology relevant for both web and cloud application development, Databases and file management, systems programming and the foundations of AI/ML.</p>
     <p>Current interests wax and wane. however, currently: </p>
     <ul>
       <li>
