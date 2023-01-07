@@ -5,10 +5,15 @@
 # Intro
 I make tech stuff whenever I am not studying in University. When summer rolls around, these are likely to be what I end up investing my time into. Specific historical interests include computer graphics and web application development. Current interests of which most of my academic year is built around include: further study into technology relevant for both web and cloud application development, Databases and file management, systems programming and the foundations of AI/ML.
 
-Current interests wax and wane. however, currently:
-* I develop [computer graphics applications](https://github.com/Physlex/OpenGPipe)
-* I make [scripts](https://github.com/Physlex/PythonOOD)
-* I attend [scientific hackathons to prototype new technology](https://github.com/Physlex/OctoSporkNatHack2022)
+### Previous Projects: (From when I was earlier in my education)
+* my [computer graphics application](https://github.com/Physlex/OpenGPipe)
+  - Learned how to work a build system and how *not* to structure a project
+* From when I attended [a scientific hackathon to prototype new technology](https://github.com/Physlex/OctoSporkNatHack2022)
+  - My first actual usage of javascript. Main priority was hooking up bluetooth to a server to a brainwave scanner. Was kinda neat.
+
+### New Projects: (Under construction, started this recent semester)
+* A [newer computer graphics application](https://github.com/Physlex/ComputerGraphics)
+  - [ ] complete
 
 <footer align="left">
 
