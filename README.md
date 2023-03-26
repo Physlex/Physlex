@@ -11,10 +11,6 @@ I make tech stuff whenever I am not studying in University. When summer rolls ar
 * From when I attended [a scientific hackathon to prototype new technology](https://github.com/Physlex/OctoSporkNatHack2022)
   - My first actual usage of javascript. Main priority was hooking up bluetooth to a server to a brainwave scanner. Was kinda neat.
 
-### New Projects: (Under construction, started this recent semester)
-* A [newer computer graphics application](https://github.com/Physlex/ComputerGraphics)
-  - [ ] complete
-
 <footer align="left">
 
 # Contact Me
