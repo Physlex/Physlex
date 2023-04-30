@@ -11,7 +11,7 @@ I make tech stuff whenever I am not studying in University. When summer rolls ar
 * From when I attended [a scientific hackathon to prototype new technology](https://github.com/Physlex/OctoSporkNatHack2022)
   - My first actual usage of javascript. Main priority was hooking up bluetooth to a server to a brainwave scanner. Was kinda neat.
 * My current stat visualization [project using python](https://github.com/Physlex/StatVis)
-  - My first actual usage of javascript. Main priority was hooking up bluetooth to a server to a brainwave scanner. Was kinda neat.
+  - Python tool. Currently planning on integrating full scipy stack with javascript visualization w/ flask.
 
 <footer align="left">
 
