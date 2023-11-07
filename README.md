@@ -9,7 +9,7 @@ I make tech stuff whenever I have time and interest. When summer rolls around, I
 * Nihility
   - Private project. Code avaliable to employers on request. (and eventually when released). Visual novel adventure game built in UE5. Student lead, student designed, student implemented.
 * Nathack 2023
-  - Private untill submitted.
+  - Private untill submitted. Top secret. Web app but brain stuffs. Big hush.
 * Interpolation project
   - Currently private. Adapted off of a school project, since I had the time and wanted to tinker with the idea a little more. Will be released publically when it can't be used for plagarism due to differences.
 
