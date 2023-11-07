@@ -18,8 +18,6 @@ I make tech stuff whenever I have time and interest. When summer rolls around, I
   - Learned how to work a build system and how *not* to structure a project
 * From when I attended [a scientific hackathon to prototype new technology](https://github.com/Physlex/OctoSporkNatHack2022)
   - My first actual usage of javascript. Main priority was hooking up bluetooth to a server to a brainwave scanner. Was kinda neat.
-* My current stat visualization [project using python](https://github.com/Physlex/StatVis)
-  - Python tool. Currently planning on integrating full scipy stack with javascript visualization w/ flask.
 
 <footer align="left">
 
