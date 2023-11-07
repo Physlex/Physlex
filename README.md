@@ -3,7 +3,13 @@
 <hr>
 
 # Intro
-I make tech stuff whenever I am not studying in University. When summer rolls around, these are likely to be what I end up investing my time into. Specific historical interests include computer graphics and web application development. Current interests of which most of my academic year is built around include: further study into technology relevant for both web and cloud application development, Databases and file management, systems programming and the foundations of AI/ML.
+I make tech stuff whenever I have time and interest. When summer rolls around, I am oft likely to be found tinkering with computer graphics, statistical visualization, computer networks or some new programming language. Specific historical interests include computer graphics, web development, application development, and scientific computing. The main takeaway should be something along the lines of "Wow, he sure likes building stuff". 'Cause I do.
+
+### Current Porjects:
+* Nihility
+  - Private project. Code avaliable to employers on request. (and eventually when released). Visual novel adventure game built in UE5. Student lead, student designed, student implemented.
+* Nathack 2023
+  - Private untill submitted.
 
 ### Previous Projects: (From when I was earlier in my education)
 * my [computer graphics application](https://github.com/Physlex/OpenGPipe)
@@ -33,5 +39,4 @@ My Email
   <img src="https://user-images.githubusercontent.com/80188240/164323266-d0f65c75-59d1-4c7d-bb7c-a437f2b06805.svg" style="width:100px;height100px;">
 </a>
 
-My School Email
 </footer>
