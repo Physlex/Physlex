@@ -5,11 +5,13 @@
 # Intro
 I make tech stuff whenever I have time and interest. When summer rolls around, I am oft likely to be found tinkering with computer graphics, statistical visualization, computer networks or some new programming language. Specific historical interests include computer graphics, web development, application development, and scientific computing. The main takeaway should be something along the lines of "Wow, he sure likes building stuff". 'Cause I do.
 
-### Current Porjects:
+### Current Projects:
 * Nihility
   - Private project. Code avaliable to employers on request. (and eventually when released). Visual novel adventure game built in UE5. Student lead, student designed, student implemented.
 * Nathack 2023
   - Private untill submitted.
+* Interpolation project
+  - Currently private. Adapted off of a school project, since I had the time and wanted to tinker with the idea a little more. Will be released publically when it can't be used for plagarism due to differences.
 
 ### Previous Projects: (From when I was earlier in my education)
 * my [computer graphics application](https://github.com/Physlex/OpenGPipe)
