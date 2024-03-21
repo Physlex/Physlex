@@ -3,7 +3,7 @@
 <hr>
 
 # Intro
-I make tech stuff whenever I have time and interest. When summer rolls around, I am oft likely to be found tinkering with computer graphics, statistical visualization, computer networks or some new programming language. Specific historical interests include computer graphics, web development, application development, and scientific computing. The main takeaway should be something along the lines of "Wow, he sure likes building stuff". 'Cause I do.
+I am a soon to be graduating student of the University of Alberta in his 4th year of studies of Computing Science. I like to build low-level, server-oriented, and otherwise systems-side materials. Currently employed as an intern for Summer 2024 by Hubbell Wildlife mitigation services to assist in the development of RTOS systems on the STM32 series of microcontrollers. My typical interests are in software design, computer graphics, and systems optimization.
 
 ### Current Projects:
 * Nihility
