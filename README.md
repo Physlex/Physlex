@@ -12,10 +12,6 @@ I am a soon to be graduating student of the University of Alberta in his 4th yea
   - Private untill submitted. Top secret. Web app but brain stuffs. Big hush.
 * Interpolation project
   - Currently private. Adapted off of a school project, since I had the time and wanted to tinker with the idea a little more. Will be released publically when it can't be used for plagarism due to differences.
-
-### Previous Projects: (From when I was earlier in my education)
-* my [computer graphics application](https://github.com/Physlex/OpenGPipe)
-  - Learned how to work a build system and how *not* to structure a project
 * From when I attended [a scientific hackathon to prototype new technology](https://github.com/Physlex/OctoSporkNatHack2022)
   - My first actual usage of javascript. Main priority was hooking up bluetooth to a server to a brainwave scanner. Was kinda neat.
 
