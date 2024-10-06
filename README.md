@@ -11,7 +11,7 @@ I’ve also participated in hackathons, with my next one being natHACK 2024, whe
 
 ## Previous Projects
 
-- [proGRESS](https://github.com/Physlex/GetNatHackedBud) is a secure, low-cost alternative to a digital workout machine. It's supposed to be plug'N'chug, meaning it requires very little setup.
+- [proGRESS](https://github.com/Physlex/GetNatHackedBud) is a secure, low-cost alternative to a digital workout machine. It uses an RFID system for profile validation and an accelerometer to track workout repititions.
 - [Job-Tracker](https://github.com/401-hackathon-2024/job-tracker) a google chrome application that would generate a resume based on some profile data which then auto-fills fields on job application websites.
 - [Function-Approximation](https://github.com/Physlex/InterpolationAndApproximation) an adapted lab from a course in university which I think is kind of neat. Approximates functions using polynomial regression techniques. At some point I accidentally re-invented the FFT algorithm since I though the trigonometric interpolation technique was related to the FFT. I was incorrect, but it was still cool.
 - [Project-Nihility](https://github.com/Physlex/ProjectNihility) The first attempt at Nihility. We have since decided to migrate to the Godot engine due to concerns of UE5's lacking documentation for modifying the engine.
