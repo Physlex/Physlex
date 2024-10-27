@@ -9,6 +9,8 @@ One of my major endeavors is a programming language called Pulse, currently in t
 
 I’ve also participated in hackathons, with my next one being natHACK 2024, where I aim to develop a solution for processing and synchronizing dream data into video using AI, employing the ESP32 microcontroller, LoRa, and FreeRTOS.
 
+Finally, I'm a massive proponent of Type-Oriented programming! I was introduced to it via my internship at Hubbell (where I built a type-specified hardware abstraction layer using tools like finite typestate machines). If interested, I highly recommend reading the paper: https://www.cs.cmu.edu/~aldrich/papers/onward2009-state.pdf
+
 ## Previous Projects
 
 - [proGRESS](https://github.com/Physlex/GetNatHackedBud) is a secure, low-cost alternative to a digital workout machine. It uses an RFID system for profile validation and an accelerometer to track workout repititions.
