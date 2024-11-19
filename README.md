@@ -17,7 +17,7 @@ Finally, I'm a massive proponent of Type-Oriented programming! I was introduced 
 - [Job-Tracker](https://github.com/401-hackathon-2024/job-tracker) a google chrome application that would generate a resume based on some profile data which then auto-fills fields on job application websites.
 - [Function-Approximation](https://github.com/Physlex/InterpolationAndApproximation) an adapted lab from a course in university which I think is kind of neat. Approximates functions using polynomial regression techniques. At some point I accidentally re-invented the FFT algorithm since I though the trigonometric interpolation technique was related to the FFT. I was incorrect, but it was still cool.
 - [Project-Nihility](https://github.com/Physlex/ProjectNihility) The first attempt at Nihility. We have since decided to migrate to the Godot engine due to concerns of UE5's lacking documentation for modifying the engine.
-
+- [natHACK 2024](https://github.com/Physlex/natHACK2024) An overly ambitious project for a two day hackathon, haha. It's an eeg -> image -> video transformer. We used two concatenated AI models to re-generate the video a user watched by reconstructing it using their brain data. 
 ## Contact Me
 
 You can reach out to me via LinkedIn or email:
