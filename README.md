@@ -13,13 +13,13 @@ Finally, I'm a massive proponent of Type-Oriented programming! I was introduced 
 
 ## Current Project
 
-[SensorStorm](https://github.com/Physlex/SensorStorm) is a team-built embedded linux application on the NVIDIA Jetson Nano. Its currently a WIP, only having the CI/CD pipeline setup, but future features will include:
+[SensorStorm](https://github.com/Physlex/SensorStorm) is a team-built embedded linux application on the NVIDIA Jetson Nano. Its currently in-progress! The most recent feature in development is the MQTT message broker and associated Paho-C client infrastructure that will be used for the majority of the peripheral connections. Future features will include:
 
 - A camera compression and data transmission pipeline
 - Diagnostics transmission to an external CAN bus via a custom SPI-CAN bridge called the BiFrost, transmitted via an external bluetooth card.
-- Live telemetry data to be transmitted along Wifi, as well as stored in a blackbox over external SRAM
+- Live telemetry data to be transmitted along Wifi, as well as stored in a SATA external-memory blackbox
 
-And much, much more. The "weather station" application will use the C++ ACE framework to manage the status of each process. More explanation for exactly what this is, and how you can run it using the docker container (if curious) exist in the read me. Feel free to check it out! No contributions from those outside of UASTARR will be accepted.
+And much, much more. More explanation for exactly what this is, and how you can run it using the docker container (if curious) exist in the read me. Feel free to check it out! No contributions from those outside of UASTARR will be accepted.
 
 ## Previous Projects
 
