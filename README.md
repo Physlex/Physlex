@@ -12,7 +12,7 @@ I’ve also participated in hackathons, with my next one being natHACK 2024, whe
 Finally, I'm a massive proponent of Type-Oriented programming! I was introduced to it via my internship at Hubbell (where I built a type-specified hardware abstraction layer using tools like finite typestate machines). If interested, I highly recommend reading the paper: https://www.cs.cmu.edu/~aldrich/papers/onward2009-state.pdf
 
 ## Previous Projects
-
+- [Music Genre Classifier](https://github.com/Physlex/music_genre_classifier) a simple 3-model experiment with included feature extraction of the GTZAN dataset using librosa. Kinda neat, proves I know the basics of AI, for anyone curious
 - [proGRESS](https://github.com/Physlex/GetNatHackedBud) is a secure, low-cost alternative to a digital workout machine. It uses an RFID system for profile validation and an accelerometer to track workout repititions.
 - [Job-Tracker](https://github.com/401-hackathon-2024/job-tracker) a google chrome application that would generate a resume based on some profile data which then auto-fills fields on job application websites.
 - [Function-Approximation](https://github.com/Physlex/InterpolationAndApproximation) an adapted lab from a course in university which I think is kind of neat. Approximates functions using polynomial regression techniques. At some point I accidentally re-invented the FFT algorithm since I though the trigonometric interpolation technique was related to the FFT. I was incorrect, but it was still cool.
