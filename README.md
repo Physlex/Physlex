@@ -3,13 +3,13 @@
 
 Hi! I’m Alex, a software engineer with a diverse background in firmware and full-stack application development. I have around a year of professional experience from my capstone at the University of Alberta and an internship at Hubbell Incorporated, both of which are private projects and not open-source.
 
-I enjoy tinkering and typically have several projects on the go. Notably, I have a personal website with a separate backend and a League of Legends API project exploring Django integration.
+I enjoy tinkering and typically have several projects on the go. Notably, I have a motor controller IoT device being worked on planned for completion this summer, as well as a rocket telemetry project made in cooperation of [UASTARR](https://www.uastarr.ca/).
 
-One of my major endeavors is a programming language called Pulse, currently in the research stage. I'm building it to be statically compiled, with plans to create a lexer and parser from scratch. This will integrate into a larger project, Wav2Mov, initially an audio-video converter that has evolved into a more complex project utilizing FFmpeg and Pulse.
+Most of my (public, typically completed) projects listed below are hackathons or the results of a couple of days of work on a specific core subject. They are explained in more detail next to their associated links. They are representitive of my breadth of knowledge, but due to time constraints they often do not sufficiently represent my depth of knowledge in a particular domain. My university does not allow display of school "projects" as resume material unless explicitly mentioned, and I don't view university as a particularly good representation of software development in general, nonetheless my capabilities, so let it be known that the only projects from university are those that caused me to be so independent from the core idea that I felt sufficient to post as my own in place of the original academic project.
 
-I’ve also participated in hackathons, with my next one being natHACK 2024, where I aim to develop a solution for processing and synchronizing dream data into video using AI, employing the ESP32 microcontroller, LoRa, and FreeRTOS.
+Due to university, I often have less time free to myself than I would when working, so I expect the number of projects, or the level of expertise required to develop them, to increase post-grad in april of 2025. I plan at that point to create blogs once a month on the more interesting aspects of work for that period. 
 
-Finally, I'm a massive proponent of Type-Oriented programming! I was introduced to it via my internship at Hubbell (where I built a type-specified hardware abstraction layer using tools like finite typestate machines). If interested, I highly recommend reading the paper: https://www.cs.cmu.edu/~aldrich/papers/onward2009-state.pdf
+Finally, one fun fact about myself, I'm a massive proponent of Type-Oriented programming! I was introduced to it via my internship at Hubbell (where I built a type-specified hardware abstraction layer using tools like finite typestate machines). If interested, I highly recommend reading the paper: https://www.cs.cmu.edu/~aldrich/papers/onward2009-state.pdf
 
 ## Previous Projects
 - [Music Genre Classifier](https://github.com/Physlex/music_genre_classifier) a simple 3-model experiment with included feature extraction of the GTZAN dataset using librosa. Kinda neat, proves I know the basics of AI, for anyone curious
