@@ -9,7 +9,7 @@ Most of my (public, typically completed) projects listed below are hackathons or
 
 Please note: My university does not allow display of school "projects" as resume material unless explicitly mentioned, and I don't view university as a particularly good representation of software development in general, nonetheless my capabilities, so let it be known that the only projects from university are those that caused me to be so independent from the core idea that I felt sufficient to post as my own in place of the original academic project.
 
-Due to university, I often have less time free to myself than I would when working, so I expect the number of projects, or the level of expertise required to develop them, to increase post-grad in april of 2025. I plan at that point to create blogs once a month on the more interesting aspects of work for that period. 
+Due to university I often have less free time than I would when working, so I expect the number of projects, or the level of expertise required to develop them, to increase post-grad in april of 2025. I plan at that point to create blogs once a month on the more interesting aspects of work for that period. Whether I stick to the blogging is currently unknown. 
 
 Finally, one fun fact about myself, I'm a massive proponent of Type-Oriented programming! I was introduced to it via my internship at Hubbell (where I built a type-specified hardware abstraction layer using tools like finite typestate machines). If interested, I highly recommend reading the paper: https://www.cs.cmu.edu/~aldrich/papers/onward2009-state.pdf
 
