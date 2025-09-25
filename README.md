@@ -3,7 +3,7 @@
 
 Hi! I’m Alex, a software engineer with a diverse background in firmware and full-stack application development. I have around a year of professional experience from my capstone at the University of Alberta and an internship at Hubbell Incorporated, both of which are private products and not open-source. (Feel free to ask me about them though, and I will disclose anything non-NDA!).
 
-I enjoy tinkering and typically have several projects on the go. Notably, I have a motor controller IoT device being worked on planned for completion this summer, as well as a rocket telemetry project made in cooperation of [UASTARR](https://www.uastarr.ca/).
+I enjoy tinkering and typically have several projects on the go.
 
 Most of my (public, typically completed) projects listed below are hackathons or the results of a couple of days of work on a specific core subject. They are explained in more detail next to their associated links. They are representitive of my breadth of knowledge, but due to time constraints they often do not sufficiently represent my depth of knowledge in a particular domain. Some of these are more in-depth and are obvious upon inspection.
 
