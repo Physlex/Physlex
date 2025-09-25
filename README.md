@@ -1,7 +1,7 @@
 # Alexander Williams-Letondre
 ## Software Engineer (Firmware to Full-Stack)
 
-Hi! I’m Alex, a software engineer with a diverse background in firmware and full-stack application development. I have around a year of professional experience from my capstone at the University of Alberta and an internship at Hubbell Incorporated, both of which are private products and not open-source. (Feel free to ask me about them though, and I will disclose anything non-NDA!).
+Hi! I’m Alex, a software engineer with a diverse background in firmware and full-stack application development. I have around a year of professional experience from my capstone at the University of Alberta and an internship at Hubbell Incorporated, both of which are private products and not open-source. (Feel free to ask me about them though, and I will disclose anything non-NDA!). I currently work for the faculty of (space) physics at the University of Alberta as a "Research Assistant". Really though, it's an embedded software engineering role.
 
 I enjoy tinkering and typically have several projects on the go.
 
